@@ -1,0 +1,6 @@
+*/.classpath
+*/.factorypath
+*/.project
+*/.settings/*
+*/src/main/java/META-INF/MANIFEST.MF
+*/target/*
